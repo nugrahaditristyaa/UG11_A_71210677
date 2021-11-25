@@ -1,4 +1,4 @@
-print("======== Calculator Sederhana ========")
+print("======== Calculator sederhana ========")
 print("1. Pertambahan")
 print("2. Pengurangan")
 print("3. Perkalian")
